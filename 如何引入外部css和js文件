@@ -5,7 +5,7 @@
 <script src="/static/js/XXX.js" ></script>
 <script>
 export default {
-  name: 'MainPage',
+  name: 'XXX',
   data () {
     return {
     }
