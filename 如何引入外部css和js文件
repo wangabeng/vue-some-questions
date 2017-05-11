@@ -1,0 +1,17 @@
+<template>
+  <div id="app" > </div>
+</template>
+
+<script src="/static/js/XXX.js" ></script>
+<script>
+export default {
+  name: 'MainPage',
+  data () {
+    return {
+    }
+  }
+</script>
+
+<style scoped>
+  @import '/static/css/XXX.min.css';
+</style>
